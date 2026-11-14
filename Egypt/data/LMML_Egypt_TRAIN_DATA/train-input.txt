@@ -1,0 +1,13 @@
+king:  temple @ Karnak | cult: star * of Amun| era :Akhenaten| epithet : cost: $200 | ratio: Horemheb| Fig 3
+ city:  see notes; p.12| reign:  Giza| temple :3  
+ reign: true  |  (faded)  |  ###  |  era : Seti I  |  title: temple @ Karnak  |  rank : -18   |  height:    |  god:-57  |  page 7  |  city: Amun
+page 14 | name: Hatshepsut | dynasty: 18 | [torn] | alive: false | Chapter IV
+temple :Abu Simbel|builder:Ramesses II |  year: -1264|  epithet:   
+god: Thoth | title: "lord of the moon" | scroll: C:\papyri\thoth | - 12 -
+  queen:Nefertari| age : 0 |rank:  | (margin) | city :Luxor  
+ratio: 2:1 | width: 230 | height:146 | material: limestone & granite | Plate VII
+[illegible] | pharaoh : Tutankhamun | reign : 10 | tomb: KV62 | gold: true | footnote 3
+scribe: Ani| notes:  see p.45 (faded) |cult:Osiris|  ### | alive:true
+name: Imhotep | role: architect, vizier: and healer | dynasty:3 | god: | page 101
+Chapter XII | city: Alexandria | founded: -331 | library: 50% lost | river: Nile | [stain]
+ temple:Philae  |  goddess : Isis  |  moved:  1980 |  flooded : true  |  ~~~  |  epithet :  

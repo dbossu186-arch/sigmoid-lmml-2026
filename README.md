@@ -11,4 +11,4 @@ One folder per country task. Each folder has the solution code and a README expl
 Notes:
 - **Japan:** work in progress (photo-attribution analysis), not a passed task.
 - **Vietnam:** still being finished. The grader expects a plain convnext_tiny checkpoint dict.
-- **Large inputs:** data sets are not included. Each task's README says where its data comes from.
+- **Data:** each folder has the task's input files in `data/`, next to `TASK.md` (the statement and expected output) and the solution. The big image sets (China, India, Japan, Laos) and France's table aren't stored here. Their `DATA.md` gives the download link.

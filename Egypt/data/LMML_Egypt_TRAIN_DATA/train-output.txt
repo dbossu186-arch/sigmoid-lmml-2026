@@ -1,0 +1,13 @@
+{"king":"temple @ Karnak","cult":"star * of Amun","era":"Akhenaten","epithet":"cost: $200","ratio":"Horemheb"}
+{"city":"see notes; p.12","reign":"Giza","temple":3}
+{"reign":true,"era":"Seti I","title":"temple @ Karnak","rank":-18,"height":null,"god":-57,"city":"Amun"}
+{"name":"Hatshepsut","dynasty":18,"alive":false}
+{"temple":"Abu Simbel","builder":"Ramesses II","year":-1264,"epithet":null}
+{"god":"Thoth","title":"\"lord of the moon\"","scroll":"C:\\papyri\\thoth"}
+{"queen":"Nefertari","age":0,"rank":null,"city":"Luxor"}
+{"ratio":"2:1","width":230,"height":146,"material":"limestone & granite"}
+{"pharaoh":"Tutankhamun","reign":10,"tomb":"KV62","gold":true}
+{"scribe":"Ani","notes":"see p.45 (faded)","cult":"Osiris","alive":true}
+{"name":"Imhotep","role":"architect, vizier: and healer","dynasty":3,"god":null}
+{"city":"Alexandria","founded":-331,"library":"50% lost","river":"Nile"}
+{"temple":"Philae","goddess":"Isis","moved":1980,"flooded":true,"epithet":null}
