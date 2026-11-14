@@ -1,0 +1,16 @@
+data/
+ext/
+runs/
+feats/
+.venv/
+.venv-check/
+venv/
+__pycache__/
+*.pth
+*.npz
+*.npy
+backbone.pt
+logs_*.txt
+model.pt
+*.pt
+.DS_Store

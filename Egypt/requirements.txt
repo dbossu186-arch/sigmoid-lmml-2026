@@ -1,0 +1,5 @@
+# Python 3.10-3.12 (verified with CPython 3.11.16)
+huggingface-hub==0.26.2
+# Build with CUDA (needs nvcc; see README for a no-root CUDA toolkit via pip):
+#   CMAKE_ARGS="-DGGML_CUDA=on" pip install --no-cache-dir llama-cpp-python==0.3.35
+llama-cpp-python==0.3.35

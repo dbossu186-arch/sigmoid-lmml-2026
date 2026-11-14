@@ -1,0 +1,6 @@
+data/
+out/
+cleaned.wav
+.venv/
+.DS_Store
+__pycache__/

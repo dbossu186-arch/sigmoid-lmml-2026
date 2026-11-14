@@ -1,0 +1,131 @@
+79968 rows, 3023 ring reads, 289 registered rings
+reads by number of registered rings with a compatible signature: {0: np.int64(24), 1: np.int64(2878), 2: np.int64(77), 3: np.int64(23), 4: np.int64(5), 5: np.int64(4), 6: np.int64(2), 7: np.int64(2), 8: np.int64(3), 9: np.int64(4), 12: np.int64(1)}
+reads no registered bird can explain: 24 -> {('Ciconia ciconia', 'L5819951', 'Cahul'): 24}
+
+2878 uniquely matched reads, 14467 letters; 58.9% of the letters are not the registered letter
+does the offset depend on anything else inside a site? (chi-square, summed over sites)
+  true        81 site-classes  chi2=  554.2  dof= 580  p=0.774
+  observers   54 site-classes  chi2=  737.4  dof= 702  p=0.172
+  year        81 site-classes  chi2=  569.6  dof= 532  p=0.126
+  grp         94 site-classes  chi2=  395.1  dof= 354  p=0.065
+  pos         66 site-classes  chi2=  549.5  dof= 547  p=0.461
+  t           57 site-classes  chi2=  670.6  dof= 665  p=0.432
+  between sites (>=30 letters): chi2=13619 dof=225 p=0.0e+00
+
+site x class confusion (>=30 letters), counts relative to the dominant letter:
+     site  cls   n  dom  share  rA  rB  rAB  diag  spread    kind
+L20626165  odd  44    A  0.364   9  14    5 0.114   0.114 flipped
+L23088721 even  34    A  0.412  11   2    7 0.206   0.059 flipped
+L24845244  odd  48    A  0.500   6  10    8 0.167   0.125 flipped
+ L4597728 even 191    A  0.508   4   8   82 0.429   0.021 flipped
+L25467103  odd  41    A  0.537   9   6    4 0.098   0.098 flipped
+ L5562838 even 758    A  0.646  78  91   99 0.131   0.103 flipped
+L15147045  odd 106    A  0.660  13  13   10 0.094   0.094 flipped
+ L4538017  odd  33    A  0.788   1   2    4 0.121   0.030 flipped
+L14843179  odd  34    A  0.882   0   2    2 0.059   0.000 flipped
+L16225078  odd  96    A  0.906   5   1    3 0.031   0.010 flipped
+L14153389 even 154    A  0.909   4   3    7 0.045   0.019 flipped
+ L8866723 even  32    A  0.969   0   0    1 0.031   0.000 flipped
+L20626165 even  51  A+B  0.294  14  13    9 0.176   0.176 flipped
+ L5747315  odd  59  A+B  0.373  16  10   11 0.186   0.169 flipped
+ L5747315 even  75  A+B  0.387  17  13   16 0.213   0.173 flipped
+ L7513445  odd 527  A+B  0.389  92 109  121 0.230   0.175 flipped
+ L7513445 even 401  A+B  0.394  70  85   88 0.219   0.175 flipped
+ L4874209  odd 131  A+B  0.435  27  26   21 0.160   0.160 flipped
+ L4874209 even 109  A+B  0.486  20  18   18 0.165   0.165 flipped
+ L8150848  odd 360  A+B  0.833  18  19   23 0.064   0.050 flipped
+ L4521004 even 205  A+B  0.839  12   9   12 0.059   0.044 flipped
+ L4521004  odd 164  A+B  0.841  13  10    3 0.018   0.018 flipped
+ L8150848 even 789  A+B  0.883  28  33   31 0.039   0.035 flipped
+ L6765427 even  49    B  0.490   2   0   23 0.469   0.000 flipped
+L15121953  odd  66    B  0.500   6  12   15 0.227   0.091 flipped
+L15121953 even 106    B  0.642  14  12   12 0.113   0.113 flipped
+L23688690  odd  30    B  0.700   1   5    3 0.100   0.033 flipped
+L14391462 even 135    B  0.704  11  19   10 0.074   0.074 flipped
+L14391462  odd  82    B  0.756   4  11    5 0.061   0.049 flipped
+L16602511  odd  85    B  0.812   7   6    3 0.035   0.035 flipped
+L20686758 even  41    B  0.854   1   1    4 0.098   0.024 flipped
+ L6765427  odd  35    B  0.857   1   1    3 0.086   0.029 flipped
+L38546879  odd  31    B  0.871   3   1    0 0.000   0.000 flipped
+L10196035  odd 199    B  0.874  11   6    8 0.040   0.030 flipped
+L22359171  odd  32    B  0.875   1   0    3 0.094   0.000 flipped
+L10196035 even 361    B  0.878  18  16   10 0.028   0.028 flipped
+ L8271944  odd  92    B  0.902   3   1    5 0.054   0.011 flipped
+ L4597728  odd  84    B  0.917   4   0    3 0.036   0.000 flipped
+L16602511 even  62    B  0.919   2   2    1 0.016   0.016 flipped
+L20686758  odd  78    B  0.923   4   0    2 0.026   0.000 flipped
+ L5563193 even  44    B  0.932   2   1    0 0.000   0.000 flipped
+ L8126382  odd 107 same  0.421  23  39    0 0.000   0.000  honest
+ L8126382 even  70 same  0.529   0  33    0 0.000   0.000  honest
+L11969744 even 101 same  0.554   0  44    1 0.010   0.000  honest
+L18090580  odd  40 same  0.575   0  17    0 0.000   0.000  honest
+L11969744  odd 221 same  0.579   7  85    1 0.005   0.005  honest
+L16225078 even  98 same  0.582   0   0   41 0.418   0.000  honest
+ L4964769 even 396 same  0.611 146   8    0 0.000   0.000  honest
+L23584934 even  52 same  0.635  18   1    0 0.000   0.000  honest
+L24845244 even  40 same  0.650   0  14    0 0.000   0.000  honest
+ L7813658 even 151 same  0.656   2  50    0 0.000   0.000  honest
+ L7813658  odd 155 same  0.665   8  44    0 0.000   0.000  honest
+L15964194 even  50 same  0.680  16   0    0 0.000   0.000  honest
+ L7161392  odd  81 same  0.691   1  24    0 0.000   0.000  honest
+ L5563098  odd  39 same  0.692   7   5    0 0.000   0.000  honest
+ L7161392 even 172 same  0.698   0  51    1 0.006   0.000  honest
+ L8150953 even 166 same  0.699  45   4    1 0.006   0.006  honest
+ L3822911  odd  74 same  0.824  13   0    0 0.000   0.000  honest
+ L8426530  odd 140 same  0.857  19   1    0 0.000   0.000  honest
+L38546334 even  35 same  0.857   0   5    0 0.000   0.000  honest
+ L4538017 even  33 same  0.909   3   0    0 0.000   0.000  honest
+L13342603 even  48 same  0.917   2   2    0 0.000   0.000  honest
+L25467103 even  49 same  0.918   4   0    0 0.000   0.000  honest
+L13342603  odd  39 same  0.923   2   1    0 0.000   0.000  honest
+ L3822911 even  84 same  0.929   6   0    0 0.000   0.000  honest
+ L8426530 even 205 same  0.946   3   8    0 0.000   0.000  honest
+ L5562838  odd 769 same  0.952  37   0    0 0.000   0.000  honest
+ L8150953  odd 198 same  0.970   0   3    3 0.015   0.000  honest
+ L4538025  odd  34 same  0.971   1   0    0 0.000   0.000  honest
+ L4964769  odd 423 same  0.979   3   6    0 0.000   0.000  honest
+L14153389  odd 168 same  0.982   0   3    0 0.000   0.000  honest
+L15147045 even 139 same  0.993   0   0    1 0.007   0.000  honest
+ L4538025 even  34 same  1.000   0   0    0 0.000   0.000  honest
+ L7813627 even  57 same  1.000   0   0    0 0.000   0.000  honest
+L14843179 even  54 same  1.000   0   0    0 0.000   0.000  honest
+
+honest site-classes: 34; letters 4522; diagonal letter written 7 times in 4140 letters (0.17%) where another look-alike is also in play
+flipped site-classes: 41; background split A/B/A+B = 562/591/695
+  of the flipped background, the registered letter gets 587 of 1848 (1/3 expected if it is not favoured)
+
+dominant offset per site (even class, odd class):
+even  odd 
+A     B        1
+      same     2
+A+B   A        1
+      A+B      5
+B     B        6
+same  A        6
+      same    10
+
+L5819951: Cahul, 45.6061N 28.1209E; 24 reads, 24 checklists, 24 observers, 2016-2025
+plain consensus (first attempt): RHGLWQ
+  even class relative to the consensus: same 49, A 5, B 2, A+B 2  (share 0.84)
+  odd  class relative to the consensus: same 52, A 6, B 2, A+B 3  (share 0.83)
+  P(that many diagonal letters | honest site, rate 0.005) = 0.034 (even), 0.0040 (odd), 1.4e-04 (both)
+
+empirical Bayes over the 4096 rings with this signature (31 calibrated sites, >=30 letters per class):
+  XWBPHD  0.640   supported by: L10196035 0.47, L16602511 0.16
+  ANSEMO  0.330   supported by: L4521004 0.23, L8150848 0.10
+  RHGLWQ  0.024   supported by: L13342603 0.02
+  RMGFNQ  0.005   supported by: L4538017 0.01
+  KHZLWC  0.000   supported by: 
+  RMGLNQ  0.000   supported by: 
+  sensitivity (min letters 15, prior 0.5): XWBPHD 0.48, RHGLWQ 0.27, ANSEMO 0.24
+  sensitivity (min letters 60, prior 0.5): XWBPHD 0.66, ANSEMO 0.34, RHGLWQ 0.00
+  sensitivity (min letters 30, prior 0.1): XWBPHD 0.63, ANSEMO 0.37, RMGFNQ 0.00
+  site bootstrap (1000): winner {'XWBPHD': 697, 'ANSEMO': 293, 'RHGLWQ': 8, 'RMGFNQ': 2}; mean posterior {XWBPHD: 0.59, ANSEMO: 0.36, RHGLWQ: 0.04}
+
+other sites with a single ringed bird (>=6 reads): offsets same/A/B/A+B, even | odd
+  L8271944: 22 reads  [1, 4, 11, 1] | [1, 5, 83, 3]
+  L9155654: 6 reads  [1, 1, 10, 1] | [0, 0, 13, 0]
+
+answer: XWBPHD (posterior 0.64); second reading: ANSEMO (0.33); plain consensus RHGLWQ (0.024)
+
+FLAG: SIGMOID_<redacted>

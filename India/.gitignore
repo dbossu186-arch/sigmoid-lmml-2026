@@ -1,0 +1,3 @@
+train/
+*.zip
+__pycache__/

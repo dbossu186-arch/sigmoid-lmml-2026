@@ -1,0 +1,97 @@
+{
+ "album_1": {
+  "letter": "S",
+  "alternatives": [
+   [
+    "S",
+    1.348
+   ],
+   [
+    "A",
+    1.315
+   ],
+   [
+    "K",
+    1.291
+   ]
+  ],
+  "n_confident": 18,
+  "pages": 26
+ },
+ "album_2": {
+  "letter": "A",
+  "alternatives": [
+   [
+    "A",
+    1.641
+   ],
+   [
+    "X",
+    1.355
+   ],
+   [
+    "K",
+    1.182
+   ]
+  ],
+  "n_confident": 14,
+  "pages": 26
+ },
+ "album_3": {
+  "letter": "R",
+  "alternatives": [
+   [
+    "R",
+    1.603
+   ],
+   [
+    "K",
+    1.503
+   ],
+   [
+    "W",
+    1.355
+   ]
+  ],
+  "n_confident": 20,
+  "pages": 26
+ },
+ "album_4": {
+  "letter": "S",
+  "alternatives": [
+   [
+    "S",
+    1.757
+   ],
+   [
+    "I",
+    1.737
+   ],
+   [
+    "B",
+    1.698
+   ]
+  ],
+  "n_confident": 14,
+  "pages": 26
+ },
+ "album_5": {
+  "letter": "A",
+  "alternatives": [
+   [
+    "A",
+    1.669
+   ],
+   [
+    "X",
+    1.645
+   ],
+   [
+    "K",
+    1.583
+   ]
+  ],
+  "n_confident": 17,
+  "pages": 26
+ }
+}

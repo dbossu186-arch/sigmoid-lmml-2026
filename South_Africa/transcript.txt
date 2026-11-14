@@ -1,0 +1,150 @@
+# MMS-1b-all (isiZulu 'zul' adapter), greedy CTC, on cleaned.wav (comb notch + Demucs htdemucs_ft vocals).
+# Utterances found by pause detection. Columns: start_s end_s text. No language model: spelling is approximate.
+# KEY: 437.55-440.50  uzosebenzisa ikhodi ULWAZI  (ikhodi at 438.65-439.30 s, keyword at 439.80-440.50 s)
+
+    1.77     5.95 a kungathatha isikhathi ezikutoo
+    8.61    11.86 lungele lwokuba isaka musi
+   12.12    15.20 ikumi nenokughinanucheto sosananaa
+   16.83    22.47 iyentela lingakhokhwa namalungiseleni
+   24.37    27.12 buushelo lwezinga nwasebuqaleni
+   28.20    28.86 wesuy
+   29.20    36.78 amathathu tetu sisikelo wenyunyeni
+   37.09    40.48 izokhwa mukelo njengomsebenzisi
+   44.23    45.60 owywwywehy
+   46.64    48.68 ngokumvekho
+   49.84    50.89 wwwwywwwy
+   50.93    53.93 singane ngakolunye uhla ngothi
+   56.12    59.61 iicubu ezingamashupe amathathu
+   60.65    64.20 izindleko zokukuhamba ngomqelenzi
+   64.69    72.84 iphimbo nerechester akunelisi ukuza eninqan afrika
+   72.92    76.26 imbendulo ibe imigu
+   79.37    82.92 ushlengo lwezinkonzo ezenzila
+   84.82    87.21 abunenisu kahlo indo
+   88.92    89.97 posiono
+   90.13    95.11 kwezinyanga ezine zilandelana
+   97.39   100.98 sokushintsha izibongo zabancwane
+  102.24   110.73 wesinu efusonu endaweni womkhandlu kazwe lonke wesifundazo
+  111.48   115.35 ubufakazi bokuthi
+  115.85   121.72 abazi ziphathwa ngenzuda
+  122.17   126.77 ipasiboti esebenzayo ezinsukwinyi
+  128.68   133.38 zonke izinhlaka zibahulumini
+  134.25   135.15 weww
+  135.33   136.48 wondooo
+  136.67   137.47 bushanwa
+  141.16   145.58 kontraki yesivunelane eyenziwe
+  147.11   151.23 ukuhlomulwa kwamanua eboji
+  151.95   155.03 ngesikhathi emuhana
+  157.44   160.03 lemani okumele ikukhelu
+  160.34   161.47 wwy woy
+  163.16   169.16 ezisetshenziswe ngokungafanele ngamaqembu
+  170.08   175.05 okungakunyaziwe unoma yimungu
+  175.41   177.93 abantu basipigoni ana
+  179.38   180.47 ho wes sosyhos boywny
+  181.11   182.65 suwwayivoto
+  184.07   191.70 ngothola ingeniso bezimandle isikhathi sosuku olulodwa
+  192.63   193.31 
+  193.57   197.54 uhlalayoakene
+  197.64   198.43 wwwwy
+  200.21   204.06 zokukhanyisa nezamakhefu ziwulolonga
+  204.95   205.66 yywyyyy
+  207.66   212.69 yendlu yesishayamthetho kuje lonke
+  213.15   214.60 owewywwwowwwwy
+  214.72   216.59 eni ingizimo afrika
+  216.85   217.98 unohabho
+  220.07   224.09 buthulu nangokuphinisa ifundolo
+  224.29   227.90 uzotralenano stesen nosi mopomufu
+  230.65   237.44 ungaqinisekika ukuthunyelwa kwevancas
+  238.15   241.16 ukukhosela nge-s0 isijab
+  242.39   245.39 zoke nwagaba zibek elo
+  245.54   246.22 wy
+  248.00   250.20 krosong wowoshohooso
+  253.09   256.76 obut emalegunala
+  257.27   260.12 zokungenane kwandine
+  263.30   265.60 isigelesoni yalowengeno
+  266.18   266.82 wwwywyy
+  268.06   271.50 umuntu owemcezoa
+  273.36   274.19 wewzy
+  275.51   283.91 usu okusungulwa ngalo ngongoshe wegatsha eliphethi
+  286.80   291.90 ngobanele ibuqondo nemisebenzi
+  291.95   295.36 isimo sakanusezentela
+  298.08   301.37 asindalo ipungelo lokubota
+  304.49   308.22 kutsengiza ikolo ewushu
+  308.56   309.88 ho s o
+  310.00   314.28 nobuhlelwani nezakhamizi wasengabzini
+  317.14   318.31 e
+  318.55   320.25 wemufazani
+  321.12   321.87 ro
+  325.73   328.72 amakamatesi ngawo awela
+  329.03   329.76 ow
+  331.53   347.73 ilandela isakhiwe esisendimbeni ukuhlela kukhinkeza indaba izokwenza umyalelo wobuphi nonakekelo langemuva kokuyo
+  347.93   350.45 kujengisa ikholo elihle
+  350.78   355.56 yes sage sen kese
+  357.31   361.23 ebese ubufakela engomusi
+  361.61   365.35 ulimi lwesibili lokongeza
+  365.87   371.15 ubufakazi nokuthi igrophin
+  371.56   372.20 wwy
+  372.48   377.49 umenzi wesicelo ngaojiimho
+  379.01   381.96 lombhalo alubuse kasa
+  384.37   387.91 athunyelwa odwa angahambi
+  391.10   393.77 chwetha impendule ukuyiyona
+  396.96   400.03 isazi siso sokushintsha komnitasi
+  400.21   406.02 kwizindawo zokunonisela imfumu
+  406.21   407.39 wwewuww
+  408.30   411.61 zethyekuthi mundizo yokunu
+  414.39   426.64 umfundi uzokwazi ukulalela gakwisikhashata etikezwa abantu imadi osizo ukahulumeni
+  427.95   429.19 non
+  429.98   440.82 irisidi lokwamukela isicelouyinela uzosebenzisa ikhudi unwazo
+  441.24   443.08 sisiselo sio
+  443.54   444.61 neokukuba
+  446.78   450.90 ninkantolo izobeba kuthi
+  451.63   454.62 kokuba inhetele isikinxa
+  454.94   455.60 ezcy
+  457.38   466.40 umkhanqa kazwe lonke usifadaze sibekane nodaba momkomeni
+  467.66   472.24 enezinto ezibunshwa amandulu
+  474.20   478.66 njengenyathilo nokuqala nobudlelwana
+  479.62   480.40 wwwy
+  482.33   486.21 sodwa konela bezilwano solawowu
+  487.39   487.95 y
+  489.61   496.94 loluhlelo lwezifundo umfuna uzokwazi ukucebe nduva
+  497.54   498.33 wwwwwwww
+  498.90   501.83 luzela inoni nokufaxa
+  502.23   510.36 uzothumela isicelo sabo
+  513.19   514.22 hoho
+  514.28   516.56 lomukhani ophethi
+  518.72   521.48 ezibekiwe salenkozo
+  521.60   522.22 psidt
+  524.61   528.21 yaseningizi afrika yalasheke
+  528.35   528.95 wesy
+  529.22   533.59 umatshi uzoboyekeza uwatokingenji
+  533.87   542.13 i-licensi likushayelwa ukusikhashana
+  542.18   545.58 ithekisa elingesakhiwo esihla
+  549.04   551.29 o ibolokaasa
+  553.73   554.43 wwryy
+  554.62   557.28 ngoba bangenza isiceni
+  559.94   564.77 yokuhlala ulomphela esebenzayo
+  564.94   565.51 yyyyyyy
+  566.07   568.76 lwentu ukulaho yek
+  569.22   575.99 ubega izizathu zokuthi
+  578.34   582.21 averach annual ransone
+  583.76   586.04 
+  586.15   591.03 athulakala imahooggus aphethi
+  591.08   593.91 ngakhola ofula ukwamukelo
+  598.32   611.39 afana nalawo okuqala abhale incwadi ecela ligcwalise ifomu e
+  612.69   613.35 wwwy
+  613.77   617.74 ngalo nolosuku
+  619.34   628.20 upenzi kesicelo eneminyai sithathwe yibingi lamaluga
+
+# ---- Zoom on the key region (several enhancement variants) ----
+# MMS greedy, 437.4-442.95 s:
+#   demucs_notched (htdemucs_ft, full file) : izosebenzisa ikhuti unwazo isicelo
+#   htdemucs_ft on notched excerpt          : izosebenzisi ikhuti ulwazo isicelo
+#   htdemucs on raw excerpt                 : uzokusebenzisa ikuti ulwazo isicelo
+#   mdx_extra on notched excerpt            : uzosebenzisa ikhungi unywazi isicelo
+#   comb notch only                         : isosebenzisa inikeshi ulwazo isicelo
+#   notch + noisereduce                     : usosebenzisa emipheshi ulwaso isicelo
+# SeamlessM4T v2 large (tgt zul, beam 8), excerpts:
+#   htdemucs on raw, 436.5-443.2   : "Wenela uzosebenzisa ikhodi, ulwazi, isicelo sethu."
+#   htdemucs on notched, 429.8-443.2: "irisidi lokwamukela isicelo kufanele sisebenzise ikhodi"
+#   htdemucs_ft notched, 429.8-443.2: "irisidi lokwamukela izicelo kufanele uzisebenzise ukuthi unwazo izicelo."
+#   demucs_notched full, 436.5-443.2: "uzosebenzisa i-coach uNwazi isicelo sami" / "uzosebenzisa ikhofi uNwazi ..."
+# Whisper large-v3(-turbo): isiZulu is not a Whisper language; output was hallucinated loops (out/ not kept).
